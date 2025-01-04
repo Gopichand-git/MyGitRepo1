@@ -1,4 +1,3 @@
-
 My Manager Work
 =======
 This is myjavareg page
@@ -7,3 +6,9 @@ This is myjavareg page
 3rd line
 4th line
 5th line
+
+<<<<<<< HEAD
+7th line MyTest
+=======
+6th line Main
+>>>>>>> main
